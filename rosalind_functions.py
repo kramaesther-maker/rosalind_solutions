@@ -1,3 +1,5 @@
+cd rosalind_solutions
+
 # rosalind_functions.py
 # Your Name
 # Implementations for Rosalind problems
